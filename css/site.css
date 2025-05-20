@@ -188,6 +188,10 @@ h3 {
 }
 
 
+a{
+ color:#101D40;
+}
+
 
 .mySlides {
   display:none;
@@ -851,7 +855,9 @@ width:150px;
   }
 
 
-
+label{
+  font-size: 16px;
+  }
 
 
 
